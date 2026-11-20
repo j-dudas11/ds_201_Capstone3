@@ -161,13 +161,13 @@ plot vs. the intended variable. Same with 4, 5, 6, …). The median can be
 used to test wine quality’s correlation with a desired independent
 variable.
 
-![](images/images/wine-boxplots-1.png)<!-- -->![](images/wine-boxplots-2.png)<!-- -->![](images/wine-boxplots-3.png)<!-- -->![](images/wine-boxplots-4.png)<!-- -->![](images/wine-boxplots-5.png)<!-- -->![](images/wine-boxplots-6.png)<!-- -->![](images/wine-boxplots-7.png)<!-- -->![](images/wine-boxplots-8.png)<!-- -->![](images/wine-boxplots-9.png)<!-- -->![](images/wine-boxplots-10.png)<!-- -->![](images/wine-boxplots-11.png)<!-- -->
+![](images/images/wine-boxplots-1.png)<!-- -->![](images/images/wine-boxplots-2.png)<!-- -->![](images/images/wine-boxplots-3.png)<!-- -->![](images/images/wine-boxplots-4.png)<!-- -->![](images/images/wine-boxplots-5.png)<!-- -->![](images/images/wine-boxplots-6.png)<!-- -->![](images/images/wine-boxplots-7.png)<!-- -->![](images/images/wine-boxplots-8.png)<!-- -->![](images/images/wine-boxplots-9.png)<!-- -->![](images/images/wine-boxplots-10.png)<!-- -->![](images/images/wine-boxplots-11.png)<!-- -->
 
 Box plots zoomed in to top whisker to get a better idea of what the
 distribtuion of each one looks like. Used Coord-Cartesian to not remove
 the data, we just want to zoom in.
 
-![](images/wine-boxplots-zoomed-1.png)<!-- -->![](images/wine-boxplots-zoomed-2.png)<!-- -->![](images/wine-boxplots-zoomed-3.png)<!-- -->![](images/wine-boxplots-zoomed-4.png)<!-- -->![](images/wine-boxplots-zoomed-5.png)<!-- -->![](images/wine-boxplots-zoomed-6.png)<!-- -->![](images/wine-boxplots-zoomed-7.png)<!-- -->![](images/wine-boxplots-zoomed-8.png)<!-- -->![](images/wine-boxplots-zoomed-9.png)<!-- -->![](images/wine-boxplots-zoomed-10.png)<!-- -->![](images/wine-boxplots-zoomed-11.png)<!-- -->
+![](images/images/wine-boxplots-zoomed-1.png)<!-- -->![](images/images/wine-boxplots-zoomed-2.png)<!-- -->![](images/images/wine-boxplots-zoomed-3.png)<!-- -->![](images/images/wine-boxplots-zoomed-4.png)<!-- -->![](images/images/wine-boxplots-zoomed-5.png)<!-- -->![](images/images/wine-boxplots-zoomed-6.png)<!-- -->![](images/images/wine-boxplots-zoomed-7.png)<!-- -->![](images/images/wine-boxplots-zoomed-8.png)<!-- -->![](images/images/wine-boxplots-zoomed-9.png)<!-- -->![](images/images/wine-boxplots-zoomed-10.png)<!-- -->![](images/images/wine-boxplots-zoomed-11.png)<!-- -->
 
 One big takeaway from the box plots is: alcohol is the only independent
 variable where the quality score correlated with similar alcohol values.
